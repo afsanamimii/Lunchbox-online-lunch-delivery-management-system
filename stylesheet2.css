@@ -1,0 +1,103 @@
+body
+{
+	background-color: #EEE;
+}
+
+#container
+
+	{
+	background-color: #EEE;
+	 margin-right: auto;
+	margin-left: auto;
+	width:1500px;
+	height:1200px;
+}
+#header
+
+{
+	background-color:black;
+	color:white;
+	text-align:center;
+	padding: 10px;
+}
+
+#cart
+{
+margin-left: 1200px;
+color:red;
+}
+
+#content
+{
+	padding:10px;
+	
+
+
+}
+#nav
+{
+	width:250px;
+	height: 1200px;
+	float:left;
+	
+}
+
+#main
+{
+	width:1200 px;
+	align-items: center;
+	height:1200px;
+
+
+}
+
+.checkboxsize
+{
+	
+	width:50px;
+
+}
+.level
+{
+margin-left: 30px;
+}
+.level2
+{
+	margin-left: 240px;
+}
+
+.level3
+{
+	margin-left: 130px;
+}
+.level4
+{
+
+margin-left: 110px;	
+}
+.level5
+{
+margin-left: 165px;	
+}
+.level6
+{
+	margin-left: 1230px;
+}
+
+.levelinput2
+{
+	margin-left: 80px;
+}
+#img
+{
+	height:250px;
+}
+
+#footer
+{
+	clear:both;
+	padding:10px;
+	background-color:grey;
+	color:white;
+	text-align: right;
+}
